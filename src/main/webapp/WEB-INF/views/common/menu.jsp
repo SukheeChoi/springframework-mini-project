@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 
-<aside class="aside">
+<aside class="aside" style="background-Color: red;">
 	    <ul>
 	    	<li>
 	    		내 치과 등록하기
