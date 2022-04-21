@@ -25,7 +25,7 @@
 			<img src="${pageContext.request.contextPath}/resources/images/logo-spring.png" width="100px">
 		</div>
         <div class="mr-3">
-			<div class="mb-2"><i class="fa-solid fa-phone"></i></div>
+			<div class="mb-2"><i class="fa-s olid fa-phone"></i></div>
 			<div class="mb-2"><i class="fa-regular fa-clock"></i></div>
 		</div>
 		<div>
